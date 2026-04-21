@@ -16,11 +16,11 @@ const interTight = Inter_Tight({
 });
 
 export const metadata: Metadata = {
-  title: "La Caz Créole — Cuisine réunionnaise à domicile",
+  title: "La Caz Kréol — Cuisine réunionnaise à domicile",
   description:
-    "Plats réunionnais faits maison : livraison et vente à emporter. Savourez les saveurs de l'île de La Réunion avec La Caz Créole.",
+    "Plats réunionnais faits maison : livraison et vente à emporter. Savourez les saveurs de l'île de La Réunion avec La Caz Kréol.",
   openGraph: {
-    title: "La Caz Créole",
+    title: "La Caz Kréol",
     description: "Cuisine réunionnaise faite maison — livraison & vente à emporter",
     locale: "fr_FR",
     type: "website",

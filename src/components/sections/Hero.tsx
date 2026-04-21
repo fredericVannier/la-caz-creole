@@ -43,7 +43,7 @@ export function Hero() {
             La Caz
             <br />
             <em className="italic" style={{ color: "oklch(0.42 0.085 155)" }}>
-              Créole
+              Kréol
             </em>
           </h1>
 
@@ -85,7 +85,7 @@ export function Hero() {
           >
             <Image
               src="/images/hero.jpg"
-              alt="Buffet de plats créoles cuisinés par La Caz Créole"
+              alt="Buffet de plats créoles cuisinés par La Caz Kréol"
               fill
               className="object-cover object-center"
               priority

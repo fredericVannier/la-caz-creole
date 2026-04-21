@@ -227,7 +227,7 @@ export default function MenuPage() {
               className="text-[11px] uppercase tracking-[0.22em] text-muted-foreground mb-6"
               style={{ fontFamily: "var(--font-inter-tight)" }}
             >
-              La Caz Créole
+              La Caz Kréol
             </p>
             <h1
               className="text-[3.5rem] md:text-[5rem] lg:text-[6.5rem] leading-[0.95] tracking-[-0.02em] text-foreground"

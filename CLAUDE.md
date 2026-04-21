@@ -1,6 +1,6 @@
 @AGENTS.md
 
-# La Caz Créole — Contexte projet
+# La Caz Kréol — Contexte projet
 
 Site vitrine pour une cuisinière proposant des plats réunionnais en livraison et vente à emporter.
 

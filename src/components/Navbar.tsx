@@ -13,7 +13,7 @@ export function Navbar() {
           className="text-base font-light text-foreground hover:text-primary transition-colors duration-200"
           style={{ fontFamily: "var(--font-fraunces)" }}
         >
-          La Caz <em className="italic" style={{ color: "oklch(0.42 0.085 155)" }}>Créole</em>
+          La Caz <em className="italic" style={{ color: "oklch(0.42 0.085 155)" }}>Kréol</em>
         </Link>
 
         <div className="hidden md:flex items-center gap-8">

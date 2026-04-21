@@ -15,7 +15,7 @@ export function Footer() {
               className="text-2xl font-light mb-4"
               style={{ fontFamily: "var(--font-fraunces)", color: "oklch(0.985 0.005 95)" }}
             >
-              La Caz <em className="italic">Créole</em>
+              La Caz <em className="italic">Kréol</em>
             </p>
             <p className="text-xs leading-relaxed" style={{ color: "oklch(0.62 0.02 145)" }}>
               Cuisine réunionnaise faite maison.
@@ -76,7 +76,7 @@ export function Footer() {
         </div>
 
         <div className="border-t pt-6 flex flex-col md:flex-row justify-between items-center gap-3 text-xs" style={{ borderColor: "oklch(1 0 0 / 10%)", color: "oklch(0.48 0.015 145)" }}>
-          <p>© {new Date().getFullYear()} La Caz Créole</p>
+          <p>© {new Date().getFullYear()} La Caz Kréol</p>
           <p>Tous droits réservés</p>
         </div>
       </div>

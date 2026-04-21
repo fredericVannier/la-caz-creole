@@ -28,7 +28,7 @@ export function Cuisiniere() {
           <motion.div className="relative w-full h-full" style={{ y: photoY, scale: 1.1 }}>
             <Image
               src="/images/cuisiniere.png"
-              alt="La cuisinière de La Caz Créole dans sa cuisine"
+              alt="La cuisinière de La Caz Kréol dans sa cuisine"
               fill
               className="object-cover object-top"
             />
